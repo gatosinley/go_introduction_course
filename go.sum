@@ -1,6 +1,10 @@
 github.com/digitalhouse-tech/go-lib-kit v0.1.6 h1:z53mf1sFWbTbgULTVEnRfOq31W5o3escXWjsrkP9K4I=
 github.com/digitalhouse-tech/go-lib-kit v0.1.6/go.mod h1:CqolQOwNHOl/AFmFOf7vg0mHOIKzNYxUSx6gKbwJYf0=
+github.com/gatosinley/example_external v1.0.0 h1:LcMWB/5c36kYk8QM7kTCiW3QkUAxNFJnFYaolJ/sf3k=
+github.com/gatosinley/example_external v1.0.0/go.mod h1:JS30KZ7ofQbbtp+GT/e1ThVmroPT6oxhtMqT3GldN7c=
 github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
 github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
 github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1 h1:k/i9J1pBpvlfR+9QsetwPyERsqu1GIbi967PQMq3Ivc=
+golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1/go.mod h1:V1LtkGg67GoY2N1AnLN78QLrzxkLyJw7RJb1gzOOz9w=
